@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Maryana Santos de Carvalho 👋</h1>
+<h1 align="center">Hi, I'm Maryana Santos de Carvalho </h1>
 
 <h3 align="center">
   Software Developer | .NET | Web Development | Game Dev
@@ -13,7 +13,6 @@
 
 ---
 
-### 👩‍💻 About Me
 
 - 🎓 I'm a Software Developer
 - 💻 I'm passionate about software development and technology
@@ -43,9 +42,6 @@
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/maui">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET MAUI" />
   </a>
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
@@ -94,7 +90,7 @@
 
 ---
 
-### 💜 Thanks for visiting my profile!
+
 
 <p align="center">
   <i>Building my future one line of code at a time.</i>
